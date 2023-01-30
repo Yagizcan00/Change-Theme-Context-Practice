@@ -1,0 +1,38 @@
+.App {
+  text-align: center;
+  font-family: serif;
+}
+
+h1 {
+  margin: 0%;
+}
+
+.Dark {
+  background-color: black;
+  color: white;
+  height: 100vh;
+}
+
+.Dark button {
+  font-size: large;
+  font-family: fantasy;
+  border-radius: 30%;
+  background-color: black;
+  color: white;
+  border-color: white;
+}
+
+.Light {
+  background-color: white;
+  color: black;
+  height: 100vh;
+}
+
+.Light button {
+  font-size: large;
+  font-family: fantasy;
+  border-radius: 30%;
+  background-color: white;
+  color: black;
+  border-color: black;
+}
